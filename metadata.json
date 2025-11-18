@@ -1,0 +1,5 @@
+{
+  "name": "Diploma Generator",
+  "description": "An application to create, customize, and print diplomas with various styles. It saves course information and signatures locally for easy reuse.",
+  "requestFramePermissions": []
+}
